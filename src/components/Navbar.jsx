@@ -21,7 +21,7 @@ const Navbar = () => {
         await signOut(auth);
         setUser(null)
         setSession({})
-        navigate('/')
+        navigate('/task-manager/')
         }
       
 

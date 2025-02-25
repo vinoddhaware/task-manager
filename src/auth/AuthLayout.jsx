@@ -11,7 +11,7 @@ const AuthLayout = () => {
     useEffect(() => {
         const unsubscibe = auth.onAuthStateChanged((user) =>{
             if(user){
-                navigate('/home')
+                navigate('/task-manager/home')
                 setSession({
                     name: user.displayName,
                     pic: user.photoURL
@@ -19,7 +19,7 @@ const AuthLayout = () => {
             }else{
                 setUser(null)
                 setSession({})
-                navigate('/')
+                navigate('/task-manager/')
             }
         })
 

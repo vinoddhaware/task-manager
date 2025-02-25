@@ -5,7 +5,8 @@ import EditForMobileView from '../components/EditForMobileView'
 
 const Home = () => {
   return (
-    <div className=''>
+    <div>
+    
     <Header />
     <BodyTask />
     <EditForMobileView /> 
