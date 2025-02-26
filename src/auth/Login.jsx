@@ -15,7 +15,6 @@ const Login = () => {
             const loginDetails = await signInWithGoogle()
             setUser(loginDetails.user)
             navigate('/task-manager/home')
-
         } catch (error) {
             console.log(error.message || 'Something went wrong');
             
