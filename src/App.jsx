@@ -14,7 +14,7 @@ function App() {
       element: <AuthLayout />,
       children: [
         {
-          path: '/task-manager/SignIn',
+          path: '/task-manager',
           element: <Login />
         },
         {
