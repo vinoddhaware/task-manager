@@ -1,8 +1,7 @@
-# React + Vite
+<h1 align="center"> TaskManager Pro </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![task-manager1](https://github.com/user-attachments/assets/de6956c1-2d7f-486d-9c80-696d08fe4c41)
 
-Currently, two official plugins are available:
+![todoapp](https://github.com/user-attachments/assets/ce185fdd-943e-4869-a4c8-e5208727642d)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3 align="center"> <a href="https://vinoddhaware.github.io/task-manager/"> Access Here ->  </a> </h3>
