@@ -4,14 +4,14 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDEbEEkDRM5KMU8XlBxDBn--Fbg0q_ikB4",
-    authDomain: "task-management-vinn.firebaseapp.com",
-    projectId: "task-management-vinn",
-    storageBucket: "task-management-vinn.firebasestorage.app",
-    messagingSenderId: "882241835320",
-    appId: "1:882241835320:web:dde8c0a2301404d4b2b1cd"
-  };
-  
+  apiKey: "AIzaSyC9PmP2cHsm9u40gcdFgl-Gi1wTQ4BO5xE",
+  authDomain: "task-list-6b073.firebaseapp.com",
+  projectId: "task-list-6b073",
+  storageBucket: "task-list-6b073.firebasestorage.app",
+  messagingSenderId: "207935707175",
+  appId: "1:207935707175:web:0d6253e0852e8977205602"
+};
+
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 

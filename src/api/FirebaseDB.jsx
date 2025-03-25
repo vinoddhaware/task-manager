@@ -2,7 +2,8 @@ import axios from "axios";
 
 const api = axios.create({
     // baseURL: 'https://task-management-vinn-default-rtdb.firebaseio.com'
-    baseURL: 'https://task-manager-clone-default-rtdb.firebaseio.com/'
+    // baseURL: 'https://task-manager-clone-default-rtdb.firebaseio.com/'
+    baseURL: 'https://task-list-6b073-default-rtdb.firebaseio.com/'
 })
 
 
